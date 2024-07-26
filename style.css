@@ -5,6 +5,7 @@ body {
 h1 {
     font-family: Arial, sans-serif;
     text-align: center;
+    margin-top: 0%;
 }
 
 h2, h3 {
@@ -16,7 +17,7 @@ h2, h3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 30%;
     max-width: 200px;
 }
 
@@ -35,4 +36,28 @@ h2, h3 {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+@media (max-width: 768px) {
+    .text-container {
+        margin-left: 2cm;
+        margin-right: 2cm;
+    }
+
+    .subtitle-image {
+        width: 50%;
+        max-width: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .text-container {
+        margin-left: 1cm;
+        margin-right: 1cm;
+    }
+
+    .subtitle-image {
+        width: 75%;
+        max-width: 100px;
+    }
 }
