@@ -25,3 +25,14 @@ h2, h3 {
     margin-left: 5cm;
     margin-right: 5cm;
 }
+
+.footer-style {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 0.8em;
+    color: #FFFFFF;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
