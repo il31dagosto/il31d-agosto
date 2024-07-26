@@ -52,8 +52,8 @@ h2, h3 {
 
 @media (max-width: 480px) {
     .text-container {
-        margin-left: 1cm;
-        margin-right: 1cm;
+        margin-left: 0.5cm;
+        margin-right: 0.5cm;
     }
 
     .subtitle-image {
