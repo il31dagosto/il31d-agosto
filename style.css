@@ -2,12 +2,22 @@ body {
     background-color: #8BCF00;
 }
 
-h1, h2 {
+h1 {
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
-.centered-image {
+h2 {
+    font-family: Arial, sans-serif;
+    text-align: right;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    text-align: right;
+}
+
+.subtitle-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
