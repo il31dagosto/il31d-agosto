@@ -27,6 +27,10 @@ h2, h3 {
     margin-right: 5cm;
 }
 
+.center-text {
+    text-align: center;
+}
+
 .footer-style {
     font-family: Arial, sans-serif;
     text-align: center;
