@@ -32,6 +32,7 @@ h2, h3 {
     font-family: Arial, sans-serif;
     margin-left: 5cm;
     margin-right: 5cm;
+    text-align: justify;
 }
 
 .center-text {
@@ -52,6 +53,7 @@ h2, h3 {
     .text-container {
         margin-left: 2cm;
         margin-right: 2cm;
+        text-align: justify;
     }
 
     .subtitle-image {
@@ -64,6 +66,7 @@ h2, h3 {
     .text-container {
         margin-left: 0.5cm;
         margin-right: 0.5cm;
+        text-align: justify;
     }
 
     .subtitle-image {
