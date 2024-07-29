@@ -66,6 +66,12 @@ h2, h3 {
     z-index: 1000;
 }
 
+.form-container {
+    background-color: #8acf0096;
+    padding: 20px;
+    border-radius: 10px;
+}
+
 .form-container iframe {
     width: 100%;
     height: 701px;
