@@ -57,7 +57,7 @@ h2, h3 {
     z-index: 1000;
 }
 
-.upper-left-image {
+.lower-left-image {
     position: fixed;
     bottom: 5px;
     left: 5px;
