@@ -51,11 +51,11 @@ h2, h3 {
 
 .upper-right-image {
     position: fixed;
-    top: 10px;
-    right: 10px;
-    width: 100px; /* Set explicit width */
+    top: 5px;
+    right: 5px;
+    width: 100px;
     height: auto;
-    z-index: 1000; /* Ensure the image is on top */
+    z-index: 1000;
 }
 @media (max-width: 768px) {
     .text-container {
