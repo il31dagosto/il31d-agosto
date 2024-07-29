@@ -49,42 +49,12 @@ h2, h3 {
     width: 100%;
 }
 
-@media (max-width: 768px) {
-    .text-container {
-        margin-left: 2cm;
-        margin-right: 2cm;
-        text-align: justify;
-    }
-
-    .subtitle-image {
-        width: 50%;
-        max-width: 150px;
-    }
-}
-
-@media (max-width: 480px) {
-    .text-container {
-        margin-left: 0.5cm;
-        margin-right: 0.5cm;
-        text-align: justify;
-    }
-
-    .subtitle-image {
-        width: 75%;
-        max-width: 100px;
-    }
-}
-
 .attendance-form {
     margin-top: 20px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f9f9f9;
-}
-
-.attendance-form h3 {
-    margin-bottom: 10px;
 }
 
 .attendance-form label {
@@ -111,4 +81,30 @@ h2, h3 {
 
 .attendance-form input[type="submit"]:hover {
     background-color: #45a049;
+}
+
+@media (max-width: 768px) {
+    .text-container {
+        margin-left: 2cm;
+        margin-right: 2cm;
+        text-align: justify;
+    }
+
+    .subtitle-image {
+        width: 50%;
+        max-width: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .text-container {
+        margin-left: 0.5cm;
+        margin-right: 0.5cm;
+        text-align: justify;
+    }
+
+    .subtitle-image {
+        width: 75%;
+        max-width: 100px;
+    }
 }
