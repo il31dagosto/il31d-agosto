@@ -49,10 +49,10 @@ h2, h3 {
 }
 
 .upper-right-image {
-    position: absolute;
+    position: fixed;
     top: 5px;
     right: 5px;
-    width: 200px;
+    width: 100px;
     height: auto;
     z-index: 1000;
 }
@@ -61,7 +61,7 @@ h2, h3 {
     position: fixed;
     bottom: 5px;
     left: 5px;
-    width: 200px;
+    width: 100px;
     height: auto;
     z-index: 1000;
 }
@@ -73,9 +73,15 @@ h2, h3 {
         text-align: justify;
     }
 
-    .subtitle-image {
+    .title-image {
         width: 50%;
         max-width: 150px;
+    }
+
+    .upper-right-image,
+    .lower-left-image {
+        width: 30px;
+        height: auto;
     }
 }
 
@@ -86,8 +92,14 @@ h2, h3 {
         text-align: justify;
     }
 
-    .subtitle-image {
+    .title-image {
         width: 75%;
         max-width: 100px;
+    }
+    
+    .upper-right-image,
+    .lower-left-image {
+        width: 30px;
+        height: auto;
     }
 }
