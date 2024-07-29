@@ -66,6 +66,12 @@ h2, h3 {
     z-index: 1000;
 }
 
+.left-side-image {
+    position: absolute;
+    width: 100px;
+    margin-right: 10px;
+}
+
 .form-container {
     background-color: #8acf0096;
     padding: 20px;
