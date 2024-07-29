@@ -131,7 +131,7 @@ h2, h3 {
 
     .upper-right-image,
     .lower-left-image {
-        width: 30px;
+        width: 40px;
         height: auto;
     }
 
@@ -142,7 +142,6 @@ h2, h3 {
 
     .image-text-container img {
         width: 100%;
-        height: auto;
         margin-right: 10px;
     }
 
@@ -164,7 +163,7 @@ h2, h3 {
 
     .upper-right-image,
     .lower-left-image {
-        width: 30px;
+        width: 35px;
         height: auto;
     }
 
@@ -175,7 +174,6 @@ h2, h3 {
 
     .image-text-container img {
         width: 100%;
-        height: auto;
         margin-right: 10px;
     }
 
