@@ -25,7 +25,7 @@ h2, h3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
     max-width: 200px;
 }
 
@@ -43,9 +43,8 @@ h2, h3 {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 0.8em;
-    color: #FFFFFF;
+    color: #000000;
     padding: 10px;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
