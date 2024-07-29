@@ -139,6 +139,16 @@ h2, h3 {
         width: 100%;
         height: auto;
     }
+
+    .image-text-container img {
+        width: 100%;
+        height: auto;
+        margin-right: 10px;
+    }
+    
+    .image-text-container-20 img {
+        display: none;
+    }
 }
 
 @media (max-width: 480px) {
@@ -161,5 +171,15 @@ h2, h3 {
     .form-container iframe {
         width: 100%;
         height: auto;
+    }
+
+    .image-text-container img {
+        width: 100%;
+        height: auto;
+        margin-right: 10px;
+    }
+
+    .image-text-container-20 img {
+        display: none;
     }
 }
