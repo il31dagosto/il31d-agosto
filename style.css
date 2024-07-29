@@ -66,10 +66,14 @@ h2, h3 {
     z-index: 1000;
 }
 
-.left-side-image {
-    position: absolute;
-    width: 100px;
-    margin-right: 10px;
+.image-text-container {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.image-text-container span {
+    font-size: 16px;
 }
 
 .form-container {
