@@ -126,8 +126,7 @@ h2, h3 {
     }
 
     .title-image {
-        width: 75%;
-        max-width: 100px;
+        width: 100%;
     }
 
     .upper-right-image,
