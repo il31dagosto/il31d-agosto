@@ -83,6 +83,23 @@ h2, h3 {
     width: 50%;
 }
 
+.image-text-container-30 {
+    display: flex;
+    align-items: right;
+    margin: 20px 0;
+}
+
+.image-text-container-30 img {
+    width: 30%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.image-text-container-30 span {
+    font-size: 16px;
+    width: 70%;
+}
+
 .form-container {
     background-color: #8acf0096;
     padding: 20px;
