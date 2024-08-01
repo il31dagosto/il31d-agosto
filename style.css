@@ -6,11 +6,13 @@ h1 {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 0%;
+    color: #0e3304;
 }
 
 h2, h3 {
     font-family: Arial, sans-serif;
     text-align: left;
+    color: #163f0b;
 }
 
 .title-image {
@@ -49,7 +51,7 @@ h2, h3 {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 0.8em;
-    color: #000000;
+    color: #0e3304;
     padding: 10px;
     bottom: 0;
     width: 100%;
