@@ -137,11 +137,12 @@ h2, h3 {
 
     .form-container iframe {
         width: 100%;
-        height: auto;
+        height: 50%;
     }
 
     .image-text-container img {
-        width: 100%;
+        width: 50%;
+        height: auto;
         margin-right: 10px;
     }
 
@@ -169,11 +170,12 @@ h2, h3 {
 
     .form-container iframe {
         width: 100%;
-        height: auto;
+        height: 50%;
     }
 
     .image-text-container img {
-        width: 100%;
+        width: 50%;
+        height: auto;
         margin-right: 10px;
     }
 
